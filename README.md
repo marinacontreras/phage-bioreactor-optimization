@@ -32,8 +32,8 @@ This repository contains the full implementation of a dynamic modeling and optim
    ```bash
    git clone https://github.com/marinacontreras/phage-bioreactor-optimization.git
    cd phage-bioreactor-optimization
-2. Open and run Código_completo_G3.ipynb in Jupyter Notebook or Google Colab.
+2. Open and run `Código_completo_G3.ipynb` in Jupyter Notebook or Google Colab.
 
 3. Use the .xlsx files as input data, and analyze the Monte Carlo outputs using the .csv and .xlsx result files.
 
-4. (Optional) Run post_regression_analysis.py to perform visual/statistical analysis of the simulation results.
+4. (Optional) Run `post_regression_analysis.py` to perform visual/statistical analysis of the simulation results.
